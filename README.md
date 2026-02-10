@@ -19,7 +19,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ## 📂 Featured Projects
-- [**FactuallyMiserable**](https://github.com/FactuallyMiserable/FactuallyMiserable)  
+- [**TheOneAndOnlySnuggles**](https://github.com/TheOneAndOnlySnuggles/TheOneAndOnlySnuggles)  
   📜 My first reposity is about me.  
   🔧 Tech Stack: Markdown.
 - [**SmartAC**](https://github.com/FactuallyMiserable/SmartAC)  
